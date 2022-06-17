@@ -10,6 +10,19 @@
 <a href="https://medium.com/https://analyticalnahid.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://analyticalnahid.medium.com" height="30" width="40" /></a>
 </p>
 
+
+<h2 align="center"> 📖 About me</h2>
+<div align="center">
+
+💻 I'm a Machine Learning Enginner<br>
+🎨 I'm a self-taught AI Learner<br>
+📱 I make apps using flutter<br>
+🎓 I'm a Computer Science student at NIET<br>
+🌐 You can see some of my projects on [my portfolio](https://www.alwinjohn.tech/)<br>
+📺 I make contents on [YouTube](https://www.youtube.com/c/AlwinJohn)<br>
+
+
+
 - 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [https://analyticalnahid.engineer](https://analyticalnahid.engineer)
