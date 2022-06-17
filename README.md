@@ -2,15 +2,12 @@
 <h3 align="center">Machine Learning & MLOps</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtvnB6R__6vdyjUEbDgAWHw&key=AIzaSyCYf4DTqMy082gf2BVjyZ_AZS30rS2Rvl0"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtvnB6R__6vdyjUEbDgAWHw&key=AIzaSyCYf4DTqMy082gf2BVjyZ_AZS30rS2Rvl0"/>
-  </a>
-  <a href="https://twitter.com/analyticalnahid"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/analyticalnahid?logo=Twitter&style=flat-square"/></a>
-  <a href="https://github.com/analyticalnahid"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/analyticalnahid?logo=Github&style=flat-square"/></a>
-  <a href="https://github.com/analyticalnahid" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/analyticalnahid/analyticalnahid?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://twitter.com/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="analyticalnahid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="analyticalnahid" height="30" width="40" /></a>
+<a href="https://kaggle.com/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="analyticalnahid" height="30" width="40" /></a>
+<a href="https://fb.com/iamtechnicalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamtechnicalnahid" height="30" width="40" /></a>
+<a href="https://instagram.com/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="analyticalnahid" height="30" width="40" /></a>
+<a href="https://medium.com/https://analyticalnahid.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://analyticalnahid.medium.com" height="30" width="40" /></a>
 </p>
 
 - 🌱 I’m currently learning **NLP**
@@ -23,17 +20,7 @@
 
 - 📫 How to reach me **analyticalnahid@gmail.com**
 
-- ⚡ Fun fact **I Love CDrama Series**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="analyticalnahid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="analyticalnahid" height="30" width="40" /></a>
-<a href="https://kaggle.com/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="analyticalnahid" height="30" width="40" /></a>
-<a href="https://fb.com/iamtechnicalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamtechnicalnahid" height="30" width="40" /></a>
-<a href="https://instagram.com/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="analyticalnahid" height="30" width="40" /></a>
-<a href="https://medium.com/https://analyticalnahid.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://analyticalnahid.medium.com" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact **I Love CDrama**
 
 
 <h3 align="left">Languages and Tools:</h3>
