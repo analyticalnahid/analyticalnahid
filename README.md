@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nahidul Islam</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Nahidul Islam</h1>
 <h3 align="center">Machine Learning & MLOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=analyticalnahid&label=Profile%20views&color=0e75b6&style=flat" alt="analyticalnahid" /> </p>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtvnB6R__6vdyjUEbDgAWHw&key=AIzaSyCYf4DTqMy082gf2BVjyZ_AZS30rS2Rvl0"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtvnB6R__6vdyjUEbDgAWHw&key=AIzaSyCYf4DTqMy082gf2BVjyZ_AZS30rS2Rvl0"/>
+  </a>
+  <a href="https://twitter.com/analyticalnahid"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/analyticalnahid?logo=Twitter&style=flat-square"/></a>
+  <a href="https://github.com/analyticalnahid"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/analyticalnahid?logo=Github&style=flat-square"/></a>
+  <a href="https://github.com/analyticalnahid" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/analyticalnahid/analyticalnahid?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
 
 - 🌱 I’m currently learning **NLP**
 
