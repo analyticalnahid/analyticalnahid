@@ -13,7 +13,7 @@
 🎨 I'm a self-taught **AI Learner**<br>
 🎓 I'm a Computer Science student at [NIET](http://www.niet.edu.bd/)<br>
 👨‍💻 All of my projects are available at [Analyticalnahid](https://analyticalnahid.engineer)<br>
-📺 I make contents on [YouTube](https://www.youtube.com/c/AlwinJohn)<br>
+📺 I make contents on [YouTube](https://www.youtube.com/channel/UCLeFKnFwC11FQWvtFk32vJQ)<br>
 📝 I regularly write articles on [Medium](https://analyticalnahid.medium.com)<br>
 💬 Ask me about **Machine Learning / Deep Learning**<br>
 📫 How to reach me **analyticalnahid@gmail.com**<br>
