@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Nahidul Islam</h1>
 <h3 align="center">Machine Learning & MLOps</h3>
 <p align="center">
- <img src="https://pbs.twimg.com/profile_banners/1204243134391021568/1639993248/600x200"/>
+ <img src="final.png"/>
 </p>
 
 <h2 align="center"> 📖 About me</h2>
