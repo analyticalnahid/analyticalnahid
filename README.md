@@ -9,7 +9,7 @@
 
 
 💻 I'm a **Machine Learning Enginner**<br>
-🌱 I’m currently learning **NLP**<br>
+🌱 I’m currently learning **Computer Vision**<br>
 🎨 I'm a self-taught **AI Learner**<br>
 🎓 I'm a Computer Science student at [NIET](http://www.niet.edu.bd/)<br>
 👨‍💻 All of my projects are available at [Analyticalnahid](https://analyticalnahid.engineer)<br>
