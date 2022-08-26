@@ -48,5 +48,6 @@
   
   
 <h3 id="📺-latest-youtube-videos">📺 Latest YouTube Videos</h3>
+<iframe width="1026" height="577" src="https://www.youtube.com/embed/tks_2EUGVLA" title="Optical Character Reader || OCR || Analytical Nahid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
   
 <h3 id="📕-latest-blog-posts">📕 Latest Blog Posts</h3>  
