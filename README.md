@@ -48,5 +48,15 @@
   
   
 <h3 id="📺-latest-youtube-videos">📺 Latest YouTube Videos</h3>
+
+### Latest YouTube videos
+---
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+---
+  
   
 <h3 id="📕-latest-blog-posts">📕 Latest Blog Posts</h3>  
