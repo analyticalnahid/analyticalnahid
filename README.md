@@ -51,9 +51,9 @@
 <h3 id="📺-latest-youtube-videos">📺 Latest YouTube Videos</h3>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [The Spark Foundation Internship | TASK03 | Analytical Nahid](https://www.youtube.com/watch?v=RE3klBTFr-A)
-- [The Spark Fundatio Internship &lpar;Computer Vision &amp; IoT&rpar; | Task02 | Analytical Nahid](https://www.youtube.com/watch?v=bqhp94vSCD8)
-- [The Spark Foundation Computer Vision &amp; IoT Internship | Task01 | Analytical Nahid](https://www.youtube.com/watch?v=yhYjfOuCAa4)
+- [The Spark Foundation &lpar;Computer Vision &amp; IoT Intern&rpar; | TASK03 | Analytical Nahid](https://www.youtube.com/watch?v=RE3klBTFr-A)
+- [The Spark Fundation &lpar;Computer Vision &amp; IoT Intern&rpar; | Task02 | Analytical Nahid](https://www.youtube.com/watch?v=bqhp94vSCD8)
+- [The Spark Foundation &lpar;Computer Vision &amp; IoT Internship&rpar; | Task01 | Analytical Nahid](https://www.youtube.com/watch?v=yhYjfOuCAa4)
 - [Movie Recommendation System Content Based Filtering || Recommendation System || Analytical Nahid](https://www.youtube.com/watch?v=R6DidWKoSgQ)
 - [Optical Character Reader || OCR || Analytical Nahid](https://www.youtube.com/watch?v=tks_2EUGVLA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
