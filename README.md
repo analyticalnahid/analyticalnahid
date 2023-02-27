@@ -64,7 +64,8 @@
 <h3 id="📕-latest-blog-posts">📕 Latest Blog Posts</h3> 
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to install Docker and Docker Desktop on Arch Linux](https://analyticalnahid.medium.com/how-to-install-docker-and-docker-desktop-on-arch-linux-6a8eb0f0dd22?source=rss-f9f520e02460------2)
+- [How to install Git and GitHub Desktop in Arch Linux](https://analyticalnahid.medium.com/how-to-install-git-and-github-desktop-in-arch-linux-bb70c56751d8?source=rss-f9f520e02460------2)
+- [How to install Docker and Docker Desktop in Arch Linux](https://analyticalnahid.medium.com/how-to-install-docker-and-docker-desktop-on-arch-linux-6a8eb0f0dd22?source=rss-f9f520e02460------2)
 - [How to upload/push large files in Github](https://analyticalnahid.medium.com/how-to-upload-push-large-files-in-github-d70b4d2f607e?source=rss-f9f520e02460------2)
 - [A Safety Equipment Detection System](https://analyticalnahid.medium.com/a-safety-equipment-detection-system-4e68a96a7a4a?source=rss-f9f520e02460------2)
 - [ডেটা সাইন্স রিসোর্স বাংলা](https://analyticalnahid.medium.com/%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-5956325b37ac?source=rss-f9f520e02460------2)
