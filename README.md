@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Nahidul Islam</h1>
 <h3 align="center">Machine Learning & MLOps</h3>
 <p align="center">
- <img src="j.svg"/>
+ <img src="LinkedIn Banner (2).png"/>
 </p>
 
 <h2 align="center"> 📖 About me</h2>
 <div align="center">
 
 
-💻 I'm a **Machine Learning Enginner**<br>
+💻 I'm a **Software Developer | ML**<br>
 🌱 I’m currently learning **Computer Vision and Web Development**<br>
 🎨 I'm a self-taught **AI Learner**<br>
 🎓 I'm a Computer Science student at [NIET](http://www.niet.edu.bd/)<br>
