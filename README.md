@@ -51,11 +51,11 @@
 <h3 id="📺-latest-youtube-videos">📺 Latest YouTube Videos</h3>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GraphQL User Registration API with Graphene-Django || Analytical Nahid](https://www.youtube.com/watch?v=k7tN5PLXPdI)
 - [Django Basic Registration With Deployment &lpar;PythonAnywhere&rpar; | Analytical Nahid](https://www.youtube.com/watch?v=Qt4CsWRk0fQ)
 - [How to upload large files in github under 20 seconds](https://www.youtube.com/watch?v=SHO-7Yzjc14)
 - [Realtime Mask Detection using YOLOv7](https://www.youtube.com/watch?v=75qrrQIHSSA)
 - [Hardhat/Head Detection using YOLOv7 | Object Detection | Color Change According To Objects](https://www.youtube.com/watch?v=fszQ48oho5A)
-- [The Spark Foundation &lpar;Computer Vision &amp; IoT Internship&rpar; | TASK03 | Analytical Nahid](https://www.youtube.com/watch?v=RE3klBTFr-A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
