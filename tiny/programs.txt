@@ -2,6 +2,10 @@
 
 -----> twilio otp <-----
 
+--- library ---
+https://pypi.org/project/phonenumbers/
+https://pypi.org/project/django-phonenumber-field/
+
 https://pythonguides.com/register-user-with-otp-verification-in-django/
 https://www.twilio.com/blog/enable-multiple-otp-methods-django
 https://youtu.be/yjBIBDk81dg
