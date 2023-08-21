@@ -1,11 +1,20 @@
 >>>>>>>>>>>> otp expiration <<<<<<<<<<<<
 
+-----> twilio otp <-----
+
+https://pythonguides.com/register-user-with-otp-verification-in-django/
 https://www.twilio.com/blog/enable-multiple-otp-methods-django
+https://youtu.be/yjBIBDk81dg
 https://www.twilio.com/blog/verify-phone-numbers-django-twilio-verify
 https://django-otp-twilio.readthedocs.io/en/latest/
 https://blog.devgenius.io/how-to-implement-mobile-number-verification-and-authentication-with-otp-in-django-drf-73d3161380d
-https://django-otp-official.readthedocs.io/en/stable/
+https://www.codementor.io/@rishabh_ags/twilio-project-bl2kk9fwj
 
+-----> django otp <-----
+
+https://django-otp-official.readthedocs.io/en/stable/
+https://medium.com/viithiisys/creating-and-verifying-one-time-passwords-with-django-otp-861f472f602f
+https://studygyaan.com/django/email-otp-verification-form-using-ajax-django
 
 Document API -->
 Changelog and API Versioning
