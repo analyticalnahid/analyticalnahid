@@ -1,8 +1,5 @@
->>>>>>>>>>>> otp expiration <<<<<<<<<<<<
-
 -----> twilio otp <-----
 
---- library ---
 https://pypi.org/project/phonenumbers/
 https://pypi.org/project/django-phonenumber-field/
 
@@ -19,6 +16,24 @@ https://www.codementor.io/@rishabh_ags/twilio-project-bl2kk9fwj
 https://django-otp-official.readthedocs.io/en/stable/
 https://medium.com/viithiisys/creating-and-verifying-one-time-passwords-with-django-otp-861f472f602f
 https://studygyaan.com/django/email-otp-verification-form-using-ajax-django
+
+
+-----> django internalization <-----
+https://vegibit.com/django-internationalization-and-localization/
+https://www.django-rest-framework.org/topics/internationalization/
+https://lokalise.com/blog/advanced-django-internationalization/
+https://testdriven.io/blog/multiple-languages-in-django/
+https://github.com/python-babel/babel
+
+
+-----> django admin customization <-----
+https://earthly.dev/blog/customize-django-admin-site/
+https://docs.djangoproject.com/en/4.2/ref/contrib/admin/
+https://rajansahu713.medium.com/customization-of-django-admin-interface-312b4a3c0f84
+https://data-flair.training/blogs/django-admin-customization/
+https://www.section.io/engineering-education/customizing-django-admin/
+
+
 
 Document API -->
 Changelog and API Versioning
