@@ -8,7 +8,7 @@
 
 # Nahidul Islam
 
-**Building the backbone of systems · Cloud · DevOps · MLOps**
+**Building the backbone of systems · Cloud · DevOps **
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Infrastructure+Engineer+%F0%9F%8F%97%EF%B8%8F;Cloud+Architect+%E2%98%81%EF%B8%8F;DevOps+%7C+MLOps+Practitioner+%F0%9F%94%A7;Linux+Enthusiast+%F0%9F%90%A7;Lifelong+Learner+%F0%9F%93%96)](https://git.io/typing-svg)
 
